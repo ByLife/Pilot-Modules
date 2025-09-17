@@ -13,7 +13,7 @@ Voici les 7 modules disponibles dans ce repository :
 ### [✈️ Module 1 - Les bases du vol](./MODULE%201%20-%20LES%20BASES%20DU%20VOL.md)
 **Contenu :** Introduction aux principes fondamentaux de l'aviation, forces aérodynamiques de base (portance, traînée, poids, traction), théorie du vol et premiers concepts de pilotage.
 
-### [🌪️ Module 2 - Aérodynamique pratique](./MODULE%202%20-%20AÉRODYNAMIQUE%20PRATIQUE.md)
+### [🌪️ Module 2 - Aérodynamique pratique](./MODULE 2 - AÉRODYNAMIQUE PRATIQUE.md)
 **Contenu :** Approfondissement de l'aérodynamique appliquée, comportement de l'avion en vol, effets des commandes, décrochage, vrille et techniques de récupération.
 
 ### [🔧 Module 3 - Propulsion et motorisation](./MODULE%203%20-%20PROPULSION%20ET%20MOTORISATION.md)
