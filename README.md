@@ -25,7 +25,7 @@ Voici les 7 modules disponibles dans ce repository :
 ### [🌤️ Module 5 - Météorologie](./MODULE%205%20-%20MÉTÉOROLOGIE.md)
 **Contenu :** Météorologie aéronautique, formations nuageuses, fronts météorologiques, turbulences, givrage, orages et interprétation des bulletins météo.
 
-### [🧭 Module 6 - Navigation aérienne](./MODULE%206%20-%20NAVIGATION%20AÉRIENNE.md)
+### [🧭 Module 6 - Navigation aérienne](./MODULE%206%20-%20NAVIGATION%20AÉRIENNE.md)
 **Contenu :** Techniques de navigation, lecture des cartes aéronautiques, navigation à l'estime, radionavigation, GPS, calculs de route et de carburant.
 
 ### [📡 Module 7 - Communications radio](./MODULE%207%20-%20COMMUNICATIONS%20RADIO.md)
